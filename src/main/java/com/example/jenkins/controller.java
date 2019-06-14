@@ -12,6 +12,6 @@ public class controller {
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String sayHello(){
-        return "monday44 Hello jenkins, " + new Date();
+        return "monday55 Hello jenkins, " + new Date();
     }
 }
